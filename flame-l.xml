@@ -2,7 +2,7 @@
 
   <include name="base-l.xml"/>
 
-  <remote name="t2m" fetch="git://github.com/t2m-foxfone/"/>
+  <remote name="t2m" fetch="https://github.com/t2m-foxfone/"/>
 
   <default remote="caf" revision="LA.BF.1.1.2_rb1.12" sync-j="4"/>
 

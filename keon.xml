@@ -3,8 +3,8 @@
 
   <include name="base.xml"/>
 
-  <remote name="gp-b2g" fetch="git://github.com/gp-b2g/" />
-  <remote name="QRD" fetch="git://codeaurora.org/quic/qrd-android" />
+  <remote name="gp-b2g" fetch="https://github.com/gp-b2g/" />
+  <remote name="QRD" fetch="https://codeaurora.org/quic/qrd-android" />
 
   <default remote="QRD" revision="ics_master_qrd_101" sync-j="9"/>
 
